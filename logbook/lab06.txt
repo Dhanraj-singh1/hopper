@@ -1,4 +1,4 @@
-LAB 6 LOGBOOK - <your name> - <your roll no>
+LAB 6 LOGBOOK - <Dhanraj Singh> - <07>
 SETUP: my working directory is ???
 T1 prediction: I think ls / will show about ??? items
 T1: /bin holds ???
